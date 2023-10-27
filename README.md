@@ -15,7 +15,7 @@
 - 🔭 I’m working as a Software QA Engineer.
 - 🌱 Exploring 
 - ⚡ In my free time I read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Stoyana-blue?style=flat&logo=Linkedin&logoColor=white)][https://www.linkedin.com/in/stoyana-dicheva-721421269/]
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Stoyana-blue?style=flat&logo=Linkedin&logoColor=white)][(https://www.linkedin.com/in/stoyana-dicheva-721421269/)]
 
 ---
 
